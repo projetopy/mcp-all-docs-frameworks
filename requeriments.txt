@@ -1,0 +1,6 @@
+chromadb
+Django
+djangorestframework
+sentence-transformers
+langchain
+langchain-text-splitters
